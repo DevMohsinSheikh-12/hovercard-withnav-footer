@@ -15,10 +15,10 @@ function Navbar() {
                     <Link href="/">
                     <li className=' pr-10 text-focus-in '>Home</li>
                     </Link>
-                    <Link href="/">
+                    <Link href="/about">
                     <li className=' pr-10 text-focus-in '>About</li>
                     </Link>
-                    <Link href="/">
+                    <Link href="/apply">
                     <li className=' pr-10  text-focus-in '>Blogs</li>
                     </Link>
                     <Link href="/" >
